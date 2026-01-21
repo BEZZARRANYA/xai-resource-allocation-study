@@ -1,0 +1,4 @@
+model,precision_at_3,recall_at_3
+Model A (Skill-only),0.458,0.594
+Model B (Hybrid XAI),0.583,0.708
+Model C (Rule-based),0.292,0.406

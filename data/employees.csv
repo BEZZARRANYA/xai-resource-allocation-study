@@ -1,0 +1,13 @@
+employee_id,skills,rating,workload,available
+E1,"['frontend', 'sql', 'backend']",3.4,22,0
+E2,"['ml', 'backend', 'data']",3.6,18,1
+E3,"['python', 'frontend', 'backend']",3.2,27,1
+E4,"['python', 'backend', 'frontend']",4.9,29,0
+E5,"['sql', 'data', 'frontend']",4.2,9,0
+E6,"['frontend', 'ml', 'data']",5.0,19,0
+E7,"['backend', 'data', 'frontend']",4.3,28,0
+E8,"['data', 'frontend', 'ml']",4.3,9,0
+E9,"['sql', 'ml', 'frontend']",3.9,22,0
+E10,"['frontend', 'data', 'python']",3.5,7,1
+E11,"['backend', 'data', 'python']",3.4,25,0
+E12,"['frontend', 'backend', 'sql']",4.8,34,0
