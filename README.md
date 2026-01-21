@@ -142,11 +142,11 @@ This draft is intended as a **research portfolio artifact** and has not yet been
 ## Project Structure
 
 xai-resource-allocation-study/
-├── data/ # Synthetic datasets
-├── src/ # Models and evaluation code
-├── paper/ # Academic paper draft
-│ └── paper.md
-├── figures/ # Evaluation plots
+├── data/               # Synthetic datasets
+├── src/                # Models and evaluation code
+├── paper/              # Academic paper draft
+│   └── paper.md
+├── figures/            # Evaluation plots
 ├── README.md
 
 ---
